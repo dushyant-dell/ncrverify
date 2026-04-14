@@ -1,2 +1,2 @@
 # ncrverify
-NCR Verify websitr
+NCR Verify website
